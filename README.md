@@ -7,17 +7,17 @@ the quality and relevance of the generated summaries.
 
 ## Features
 **Summarization Engine:**
-A fine-tuned model capable of generating concise, genre-specific summaries of novels.
-Optimized preprocessing and tokenization for handling large text inputs.
+- A fine-tuned model capable of generating concise, genre-specific summaries of novels.
+- Optimized preprocessing and tokenization for handling large text inputs.
 
 **Evaluation Metrics:**
-ROUGE (Recall-Oriented Understudy for Gisting Evaluation):
-    Measures the overlap between generated and reference summaries.
-    Provides recall, precision, and F1-score for the evaluation.
-BLEU (Bilingual Evaluation Understudy):
-    Measures the similarity of the generated summary to the reference summary.
-Subjective Analysis:
-    Includes human evaluation for qualitative assessment of summary relevance and readability
+- ROUGE (Recall-Oriented Understudy for Gisting Evaluation):
+    - Measures the overlap between generated and reference summaries.
+    - Provides recall, precision, and F1-score for the evaluation.
+- BLEU (Bilingual Evaluation Understudy):
+    - Measures the similarity of the generated summary to the reference summary.
+- Subjective Analysis:
+    - Includes human evaluation for qualitative assessment of summary relevance and readability
 
 ## Requirements
 **To run the project, ensure the following dependencies are installed:**
