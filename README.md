@@ -20,18 +20,18 @@ Subjective Analysis:
     Includes human evaluation for qualitative assessment of summary relevance and readability
 
 ## Requirements
--**To run the project, ensure the following dependencies are installed:**
+**To run the project, ensure the following dependencies are installed:**
 
--Python 3.x
--Hugging Face Transformers: For the T5/BART pre-trained models.
--PyTorch: Backend framework for deep learning.
--NumPy: For numerical computations.
--Pandas: For dataset manipulation.
--datasets: For processing datasets.
--Matplotlib: For visualizing results.
--sklearn.metrics: For evaluation metrics like ROUGE and BLEU.
--Google Colab: Recommended for training and fine-tuning the model.
--faiss-cpu: (Optional) For fast similarity searches.
+ Python 3.x
+ Hugging Face Transformers: For the T5/BART pre-trained models.
+ PyTorch: Backend framework for deep learning.
+ NumPy: For numerical computations.
+ Pandas: For dataset manipulation.
+ datasets: For processing datasets.
+ Matplotlib: For visualizing results.
+ sklearn.metrics: For evaluation metrics like ROUGE and BLEU.
+ Google Colab: Recommended for training and fine-tuning the model.
+ faiss-cpu: (Optional) For fast similarity searches.
 
 ## Model Features
 -Input: Novel text and its genre.
